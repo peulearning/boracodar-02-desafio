@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto faz parte de uma séries de desafios proposto pela [Rocketseat!](https://rocketseat.com.br) com o intuito de ajudar a criar um portfólio completo, e ainda impulsionar a praticar programação toda semana.
 
-- [Acesse o projeto finalizado, online](https://peulearning.github.io/boracodar-02-master)
+- [Acesse o projeto finalizado, online](https://boracodar-02-desafio.vercel.app/)
 
 ## 🔖 Layout
 
@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat, codado pelo [waltcoder](https://github.com/peulearning) :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat, codado pelo [pedro](https://github.com/peulearning) :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
